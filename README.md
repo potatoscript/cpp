@@ -21,7 +21,8 @@
 | Java             | Ruby              |
 
 - 開発環境設置
-  <img src="./aasets/setup.png" />
+
+  <img src="./assets/setup.png" style="width:450px;height:250px" />
 
 ```c++
 #include <iostream>
