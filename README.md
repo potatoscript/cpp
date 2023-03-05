@@ -17,8 +17,6 @@
 | [Pointers](#pointers)                       |                | 計画中       |
 | [References](#references)                   |                | 計画中       |
 | [Strings](#strings)                         |                | 計画中       |
-| [Strings](#strings)                         |                | 計画中       |
-| [Strings](#strings)                         |                | 計画中       |
 | [One Definition Rule](#one-definition-rule) |                | 計画中       |
 | [Functions](#functions)                     |                | 計画中       |
 | [C++20 Concepts](#cpp20-concepts)           |                | 計画中       |
