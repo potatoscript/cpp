@@ -2,11 +2,32 @@
 
 ### home
 
-| Title                           | Remark         |
-| ------------------------------- | -------------- |
-| [Introduction](#introduction)   | 開発環境設置等 |
-| [Number](#number)               |                |
-| [Random Number](#random-number) |                |
+| Title                                       | Remark                             |
+| ------------------------------------------- | ---------------------------------- |
+| [Introduction](#introduction)               | 開発環境設置等                     |
+| [Basic](#basic)                             | error, Statements and Functions... |
+| [Number](#number)                           |                                    |
+| [Random Number](#random-number)             |                                    |
+| [Characters And Text](#characters-and-text) |                                    |
+| [Data operations](#data-operations)         |                                    |
+| [Flow Control](#flow-control)               |                                    |
+| [Loops](#loops)                             |                                    |
+| [Arrays](#arrays)                           |                                    |
+| [Loops](#loops)                             |                                    |
+| [Pointers](#pointers)                       |                                    |
+| [References](#references)                   |                                    |
+| [Strings](#strings)                         |                                    |
+| [Strings](#strings)                         |                                    |
+| [Strings](#strings)                         |                                    |
+| [One Definition Rule](#one-definition-rule) |                                    |
+| [Functions](#functions)                     |                                    |
+| [C++20 Concepts](#cpp20-concepts)           |                                    |
+| [Classes](#classes)                         |                                    |
+| [Inheritance](#inheritance)                 |                                    |
+| [Polymorphism](#polymorphism)               |                                    |
+| [Override](#override)                       |                                    |
+| [Destructors](#destructors)                 |                                    |
+| [Abstract Classes](#abstract-classes)       |                                    |
 
 [Home](#home)
 
@@ -33,20 +54,32 @@
         "{fileDirname}\\rooster.exe" // give the specific name for your exe file
       ]
     ```
+  - The basic structure of the c++ console `int main(){}`
 
-```c++
-#include <iostream>
+    ```c++
+    #include <iostream>
 
-using namespace std; // using directive to pick up the std namespace to eliminate std:: in the code for example std::cout
-int main(){
+    using namespace std; // using directive to pick up the std namespace to eliminate std:: in the code for example std::cout
+    int main(){
 
-   int input_number = 0;
-   cin >> input_number; // reading data from the console
-   cout << input_number; // output data to the console
+       int input_number = 0;
+       cin >> input_number; // reading data from the console
+       cout << input_number; // output data to the console
 
-   return 0;
-}
-```
+       return 0;
+    }
+    ```
+
+[Home](#home)
+
+### Basic
+
+- Errors and Warnings
+- Statements and Functions
+- Data input and output
+- C++ Program Execution Model
+- C++ core language Vs Standard library Vs STL
+- Variables and data types Introduction
 
 [Home](#home)
 
@@ -169,3 +202,188 @@ int main(){
    return 0;
 }
 ```
+
+[Home](#home)
+
+### Characters And Text
+
+- Auto
+- Assignments
+
+[Home](#home)
+
+### Data operations
+
+- Basic Operations
+- Precedence and Associativity
+- Prefix/Postfix Increment & Decrement
+- Compound Assignment Operators
+- Relational Operators
+- Logical Operators
+- Output formatting
+- Numeric Limits
+- Math Functions
+- Weird Integral Types
+
+[Home](#home)
+
+### Flow Control
+
+- If Statements
+- Else If
+- Switch
+- Ternary Operators
+
+[Home](#home)
+
+### Loops
+
+- For Loop
+- While Loop
+- Do While Loop
+
+[Home](#home)
+
+### Arrays
+
+- Declaring and using arrays
+- Size of an array
+- Arrays of characters
+- Array Bounds
+
+[Home](#home)
+
+### Pointers
+
+- Declaring and using pointers
+- Pointer to char
+- Program Memory Map Revisited
+- Dynamic Memory Allocation
+- Dangling Pointers
+- When new Fails
+- Null Pointer Safety
+- Memory Leaks
+- Dynamically allocated arrays
+
+[Home](#home)
+
+### References
+
+- Declaring and using references
+- Comparing pointers and references
+- References and const
+
+[Home](#home)
+
+### Strings
+
+- Character Manipulation
+- C-string manipulation
+- C-String concatenation and copy
+- Introducing std::string
+- Declaring and using std::string
+
+[Home](#home)
+
+### One Definition Rule
+
+- First Hand on C++ Functions
+- Function Declaration and Function Definitions
+- Multiple Files - Compilation Model Revisited
+- Pass by value
+- Pass by pointer
+- Pass by reference
+
+[Home](#home)
+
+### Functions
+
+- Introduction to getting things out of functions
+- Input and output parameters
+- Returning from functions by value
+- Function Overloading Introduction
+- Overloading with different parameters
+- Intro to Lambda Functions
+- Declaring and using lambda functions
+- Capture lists
+- Capture all in context
+- Intro to function templates
+- Trying out function templates
+- Template type deduction and explicit arguments
+- Template parameters by reference
+- Template specialization
+
+[Home](#home)
+
+### Cpp20 Concepts
+
+- Using C++20 Concepts
+- Building your own C++20 Concepts
+- Zooming in on the requires clause
+- Combining C++20 Concepts
+- C++20 Concepts and auto
+
+[Home](#home)
+
+### classes
+
+- C++ Constructors
+- Defaulted constructors
+- Setters and Getters
+- Class Across Multiple Files
+- Arrow pointer call notation
+- Destructors
+- Order of Constructor Destructor Calls
+- The this Pointer
+- struct
+- Size of objects
+
+[Home](#home)
+
+### Inheritance
+
+- First try on Inheritance
+- Protected members
+- Base class access specifiers : Zooming in
+- Closing in on Private Inheritance
+- Resurrecting Members Back in Context
+- Default Constructors with Inheritance
+- Custom Constructors With Inheritance
+- Copy Constructors with Inheritance
+- Inheriting Base Constructors
+- Inheritance and Destructors
+- Reused Symbols in Inheritance
+
+[Home](#home)
+
+### Polymorphism
+
+- Static Binding with Inheritance
+- Dynamic binding with virtual functions
+- Size of polymorphic objects and slicing
+- Polymorphic objects stored in collections (array)
+
+[Home](#home)
+
+### Override
+
+- Overloading, overriding and function hiding
+- Inheritance and Polymorphism at different levels
+- Inheritance and polymorphism with static members
+- Final
+
+[Home](#home)
+
+### Destructors
+
+- Virtual functions with default arguments
+- Virtual Destructors
+- Dynamic casts
+- Polymorphic Functions and Destructors
+
+[Home](#home)
+
+### Abstract Classes
+
+- Pure virtual functions and abstract classes
+- Abstract Classes as Interfaces
