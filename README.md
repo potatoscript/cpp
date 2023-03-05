@@ -2,32 +2,32 @@
 
 ### home
 
-| Title                                       | Remark                             |
-| ------------------------------------------- | ---------------------------------- |
-| [Introduction](#introduction)               | 開発環境設置等                     |
-| [Basic](#basic)                             | error, Statements and Functions... |
-| [Number](#number)                           |                                    |
-| [Random Number](#random-number)             |                                    |
-| [Characters And Text](#characters-and-text) |                                    |
-| [Data operations](#data-operations)         |                                    |
-| [Flow Control](#flow-control)               |                                    |
-| [Loops](#loops)                             |                                    |
-| [Arrays](#arrays)                           |                                    |
-| [Loops](#loops)                             |                                    |
-| [Pointers](#pointers)                       |                                    |
-| [References](#references)                   |                                    |
-| [Strings](#strings)                         |                                    |
-| [Strings](#strings)                         |                                    |
-| [Strings](#strings)                         |                                    |
-| [One Definition Rule](#one-definition-rule) |                                    |
-| [Functions](#functions)                     |                                    |
-| [C++20 Concepts](#cpp20-concepts)           |                                    |
-| [Classes](#classes)                         |                                    |
-| [Inheritance](#inheritance)                 |                                    |
-| [Polymorphism](#polymorphism)               |                                    |
-| [Override](#override)                       |                                    |
-| [Destructors](#destructors)                 |                                    |
-| [Abstract Classes](#abstract-classes)       |                                    |
+| Title                                       | Remark         | 学習進捗状況 |
+| ------------------------------------------- | -------------- | ------------ |
+| [Introduction](#introduction)               | 開発環境設置等 | 済           |
+| [Basic](#basic)                             |                | 済           |
+| [Number](#number)                           |                | 済           |
+| [Random Number](#random-number)             |                | 済           |
+| [Characters And Text](#characters-and-text) |                | 計画中       |
+| [Data operations](#data-operations)         |                | 計画中       |
+| [Flow Control](#flow-control)               |                | 計画中       |
+| [Loops](#loops)                             |                | 計画中       |
+| [Arrays](#arrays)                           |                | 計画中       |
+| [Loops](#loops)                             |                | 計画中       |
+| [Pointers](#pointers)                       |                | 計画中       |
+| [References](#references)                   |                | 計画中       |
+| [Strings](#strings)                         |                | 計画中       |
+| [Strings](#strings)                         |                | 計画中       |
+| [Strings](#strings)                         |                | 計画中       |
+| [One Definition Rule](#one-definition-rule) |                | 計画中       |
+| [Functions](#functions)                     |                | 計画中       |
+| [C++20 Concepts](#cpp20-concepts)           |                | 計画中       |
+| [Classes](#classes)                         |                | 計画中       |
+| [Inheritance](#inheritance)                 |                | 計画中       |
+| [Polymorphism](#polymorphism)               |                | 計画中       |
+| [Override](#override)                       |                | 計画中       |
+| [Destructors](#destructors)                 |                | 計画中       |
+| [Abstract Classes](#abstract-classes)       |                | 計画中       |
 
 [Home](#home)
 
