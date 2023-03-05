@@ -2,11 +2,11 @@
 
 ### home
 
-| Title                           | Remark |
-| ------------------------------- | ------ |
-| [Introduction](#introduction)   |        |
-| [Number](#number)               |        |
-| [Random Number](#random-number) |        |
+| Title                           | Remark         |
+| ------------------------------- | -------------- |
+| [Introduction](#introduction)   | 開発環境設置等 |
+| [Number](#number)               |                |
+| [Random Number](#random-number) |                |
 
 [Home](#home)
 
@@ -19,6 +19,9 @@
 | C++              | Python            |
 | C#               | JavaScript        |
 | Java             | Ruby              |
+
+- 開発環境設置
+  <img src="./aasets/setup.png" />
 
 ```c++
 #include <iostream>
