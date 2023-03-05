@@ -22,7 +22,17 @@
 
 - 開発環境設置
 
-  <img src="./assets/setup.png" style="width:450px;height:250px" />
+  - <img src="./assets/setup.png" style="width:450px;height:250px" />
+  - Setup the `args` of `tasks.json`
+    ```json
+      "args" :[
+        "-g",
+        "-std=c++20", // enable c++20 support
+        "${workspaceFolder}\\*.cpp", // putting all the cpp in the workspaceFolder
+        "-o",
+        "{fileDirname}\\rooster.exe" // give the specific name for your exe file
+      ]
+    ```
 
 ```c++
 #include <iostream>
