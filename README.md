@@ -1,3 +1,39 @@
+# C++ Cheat Sheets
+
+| Title | Remark/code |
+|-------|-------------|
+| [Installation](https://cplusplus.com/doc/tutorial/introduction/) | Learn how to set up a C++ environment, including compilers like GCC, Clang, and IDEs like Visual Studio or Code::Blocks. |
+| [Basic Syntax](https://cplusplus.com/doc/tutorial/program_structure/) | Understand the structure of a C++ program, including headers, main function, and basic I/O. |
+| [Data Types](https://cplusplus.com/doc/tutorial/variables/) | Learn about C++ data types like int, float, char, string, and boolean. |
+| [Control Structures](https://cplusplus.com/doc/tutorial/control/) | Explore decision-making (if-else, switch) and loops (for, while, do-while). |
+| [Functions](https://cplusplus.com/doc/tutorial/functions/) | Write reusable code with functions, including function overloading and default arguments. |
+| [Object-Oriented Programming (OOP)](https://cplusplus.com/doc/tutorial/classes/) | Understand classes, objects, constructors, destructors, and encapsulation. |
+| [Inheritance](https://cplusplus.com/doc/tutorial/inheritance/) | Learn how to create derived classes and use single, multilevel, and multiple inheritance. |
+| [Polymorphism](https://cplusplus.com/doc/tutorial/polymorphism/) | Understand function overriding, virtual functions, and dynamic binding. |
+| [Pointers](https://cplusplus.com/doc/tutorial/pointers/) | Master pointers, memory allocation, and dereferencing in C++. |
+| [Templates](https://cplusplus.com/doc/tutorial/templates/) | Learn about function and class templates for generic programming. |
+| [STL (Standard Template Library)](https://cplusplus.com/reference/stl/) | Explore STL containers like vector, map, set, and algorithms like sort and search. |
+| [File I/O](https://cplusplus.com/doc/tutorial/files/) | Learn how to handle file input/output using ifstream, ofstream, and fstream. |
+| [Multithreading](https://cplusplus.com/reference/thread/thread/) | Implement concurrency with threads and synchronization mechanisms. |
+| [Exception Handling](https://cplusplus.com/doc/tutorial/exceptions/) | Manage errors and exceptions using try, catch, and throw. |
+| [Memory Management](https://cplusplus.com/doc/tutorial/dynamic/) | Understand dynamic memory allocation with new, delete, and smart pointers. |
+| [Debugging](https://cplusplus.com/doc/tutorial/debugging/) | Learn debugging techniques and tools like GDB or Visual Studio debugger. |
+| [Best Practices](https://github.com/isocpp/CppCoreGuidelines) | Follow modern C++ practices, guidelines, and coding standards. |
+
+---
+
+## Additional Resources
+
+- 📖 [Official Documentation](https://en.cppreference.com/)  
+- 🎥 [Video Tutorials](https://www.youtube.com/results?search_query=c%2B%2B+tutorials)  
+- 📂 [Sample Projects](https://github.com/topics/cpp-project)  
+
+
+
+
+
+
+
 # C++ Cheat Sheets List:
 
 ### home
